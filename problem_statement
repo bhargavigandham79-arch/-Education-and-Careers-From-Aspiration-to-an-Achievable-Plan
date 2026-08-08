@@ -1,0 +1,9 @@
+
+  "problem_statement": {
+    "number": 2,
+    "title": "Education and Careers: From Aspiration to an Achievable Plan",
+    "challenge": "Women often receive generic course recommendations that ignore their existing skills, career breaks, affordability, family responsibilities, confidence, accessibility, and actual employment opportunities.",
+    "solution": {
+      "name": "GenAI Career and Learning Navigator",
+      "description": "A personalized GenAI navigator that helps women identify a realistic career destination, understand their skill gaps, and create an achievable learning and career plan that fits their circumstances."
+    },
