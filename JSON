@@ -1,0 +1,65 @@
+{
+  "problem_statement": {
+    "number": 2,
+    "title": "Education and Careers: From Aspiration to an Achievable Plan",
+    "challenge": "Women often receive generic course recommendations that ignore their existing skills, career breaks, affordability, family responsibilities, confidence, accessibility, and actual employment opportunities.",
+    "solution": {
+      "name": "GenAI Career and Learning Navigator",
+      "description": "A personalized GenAI navigator that helps women identify a realistic career destination, understand their skill gaps, and create an achievable learning and career plan that fits their circumstances."
+    },
+    "personas": [
+      "Final-year college student entering the workforce",
+      "Early-career professional seeking progression",
+      "Woman returning after a career break",
+      "Professional moving into leadership",
+      "Woman transitioning into technology or another new field",
+      "First-generation learner with limited professional networks"
+    ],
+    "key_features": [
+      {
+        "feature": "Structured Assessment",
+        "description": "Assess the user's goals, skills, constraints, experience, interests, and available time."
+      },
+      {
+        "feature": "Transferable Skills Identification",
+        "description": "Identify existing transferable skills instead of focusing only on missing skills."
+      },
+      {
+        "feature": "Personalized Learning Plan",
+        "description": "Generate a realistic 30, 60, or 90-day learning plan based on the user's goals and circumstances."
+      },
+      {
+        "feature": "Adaptive Weekly Schedule",
+        "description": "Create a weekly learning schedule that adapts to the user's available time and responsibilities."
+      },
+      {
+        "feature": "Smart Recommendations",
+        "description": "Recommend courses, resources, internships, certifications, and opportunities with reasons, cost, and expected outcomes."
+      },
+      {
+        "feature": "Proof of Learning",
+        "description": "Suggest portfolio projects, interview tasks, certifications, or other evidence that demonstrates newly acquired skills."
+      },
+      {
+        "feature": "Recovery Plan",
+        "description": "If the user falls behind, automatically adjust the learning schedule and provide a recovery plan."
+      },
+      {
+        "feature": "Readiness Indicator",
+        "description": "Provide a measurable career readiness score based on skills, learning progress, projects, and interview preparation."
+      }
+    ],
+    "success_moment": {
+      "before": "I want to restart my career, but I don't know where to begin.",
+      "after": [
+        "A realistic target role",
+        "A clear skill-gap map",
+        "An achievable learning schedule",
+        "A tangible first career action",
+        "Evidence of skills that can be presented to an employer"
+      ]
+    },
+    "alignment": "The solution aligns with AFH's work across college-to-career, emerging professionals, returnships, leadership, and entrepreneurship.",
+    "expected_outcome": "The platform transforms career aspirations into a personalized, realistic, and measurable action plan."
+  }
+}
